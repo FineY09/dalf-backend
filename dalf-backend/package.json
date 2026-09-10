@@ -1,7 +1,7 @@
 {
-  "name": "dalf-api-proxy",
+  "name": "dalf-backend",
   "version": "1.0.0",
-  "description": "DALF Claude API Proxy Server",
+  "description": "DALF API Proxy Server",
   "main": "api/proxy.js",
   "scripts": {
     "start": "node api/proxy.js",
@@ -13,7 +13,5 @@
   },
   "engines": {
     "node": "18.x"
-  },
-  "keywords": ["dalf", "claude", "api", "proxy"],
-  "author": "DALF"
+  }
 }
